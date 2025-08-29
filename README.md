@@ -119,7 +119,6 @@ telnet localhost 9034
 * Dynamic client tracking in `poll_with_new_feature.c` to tag messages with client IP
 
 ## Demo Video
-
-
+<video src="demo.mp4" controls width="600"></video>
 
 ---
